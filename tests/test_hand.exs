@@ -1,3 +1,5 @@
+ExUnit.start()
+
 defmodule TestHand do
   use ExUnit.Case
 
